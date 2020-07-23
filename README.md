@@ -5,6 +5,7 @@ template angular admin para iniciar projetos angular
 
 
 #Start
+
 Para start o projeto local execute comando abaixo:
 
 **npm start**
